@@ -40,7 +40,7 @@ Instalación
 
 Clonar el repositorio
 
-git clone https://github.com/tuusuario/audio-downloader.git
+git clone https://github.com/JesusVicario/audiodownloader.git
 
 Instalar dependencias
 
